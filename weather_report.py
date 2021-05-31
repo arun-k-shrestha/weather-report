@@ -7,7 +7,7 @@ tuple_weather = collections.namedtuple('tuple_weather', 'tuple_location units te
 
 def main():
     header()
-    input_location = input("Enter your location (Ex: Seattle, WA, US) ")
+    input_location = input("Enter your location - (Ex: Seattle, WA, US) ")
     loc = convert_location(input_location)
     weather = weather_api(loc)
     if not weather:
