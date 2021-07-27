@@ -6,7 +6,7 @@ Weather report displays a real time weather forecast of US locations. The projec
 
 To clone this repository to your local machine: 
 
-  > Run `git clone https://github.com/arun-k-shrestha/volume-control-computer-vision.git`
+  > Run `git clone https://github.com/arun-k-shrestha/weather-report.git`
   
 ## Running the project
 
