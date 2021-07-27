@@ -11,5 +11,5 @@ To clone this repository to your local machine:
 ## Running the project
 
 `weather_report.py` is the main file to run. 
-  > Run `python3 weather_reporty.py` on the command line. The US locations and the weather report are entered and displayed on the command line. 
+  > Run `python3 weather_report.py` on the command line. The US locations and the weather report are entered and displayed on the command line. 
 
